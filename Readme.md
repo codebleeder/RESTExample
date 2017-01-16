@@ -1,1 +1,1 @@
-**Template Project to create RESTful applications
+Template Project to create RESTful applications
